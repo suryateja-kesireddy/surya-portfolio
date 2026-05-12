@@ -19,7 +19,7 @@ export default function Footer() {
 
         {/* Logo */}
         <h2 className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
-          Suryateja
+          Suryateja Kesireddy
         </h2>
 
         {/* Text */}
